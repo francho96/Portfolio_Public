@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a153acd.css",
+    "main.js": "/static/js/main.66bf895e.js",
+    "static/media/grass.jpg": "/static/media/grass.99df5fe016cc1c1a99d9.jpg",
+    "static/media/tricot2.png": "/static/media/tricot2.cbe9f12b1a8791593c0e.png",
+    "static/media/LuisaLonganiza.png": "/static/media/LuisaLonganiza.53a09e9379d4d70e77b1.png",
+    "static/media/otherJobs.png": "/static/media/otherJobs.2891be6bb3f7a5bb7fcd.png",
+    "static/media/smtInfo.png": "/static/media/smtInfo.f066d856702f6bd2da7d.png",
+    "static/media/NavieraCoquistador.png": "/static/media/NavieraCoquistador.0b0e71207852fc7c4222.png",
+    "static/media/dirt.jpg": "/static/media/dirt.ad7b2a14384fedd4dbe4.jpg",
+    "static/media/papel1.png": "/static/media/papel1.e1a2203968f3686343ed.png",
+    "static/media/tabla2.png": "/static/media/tabla2.e2f64a01d2a23a1287b4.png",
+    "index.html": "/index.html",
+    "main.2a153acd.css.map": "/static/css/main.2a153acd.css.map",
+    "main.66bf895e.js.map": "/static/js/main.66bf895e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a153acd.css",
+    "static/js/main.66bf895e.js"
+  ]
+}
